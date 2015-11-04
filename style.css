@@ -94,7 +94,7 @@ body {
 
 #formLayout 
 {
-    padding: 4px;
+    padding: 8px;
     font-weight: bold;
     margin-top: 0px;
 
@@ -110,7 +110,7 @@ select{
 #dropdown{
     width: 100%;
     height: auto;
-    padding: 7px;
+    padding: 9px;
 }
 #formLayout label, #formLayout input
 {
@@ -179,6 +179,7 @@ padding: .7em 0;
 text-align: center;
 text-decoration: none;
 margin-top: -5px;
+border-radius: 8px;
 }
 
 ul#navigation li a:hover
