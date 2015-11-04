@@ -89,7 +89,7 @@ body {
     clear: both;
     text-align: left;
     padding: 5%;
-    margin-top: 40px;
+    margin-top: 60px;
 }
 
 #formLayout 
@@ -105,11 +105,12 @@ body {
 }
 select{
     font-family: WDB_Bangna;
-    padding: 5px;
+    padding: 7px;
 }
 #dropdown{
     width: 100%;
     height: auto;
+    padding: 7px;
 }
 #formLayout label, #formLayout input
 {
@@ -174,7 +175,7 @@ width: 5em;
 color: #FFF;
 font-weight: bold;
 background-color: #036;
-padding: .5em 0;
+padding: .7em 0;
 text-align: center;
 text-decoration: none;
 margin-top: -5px;
