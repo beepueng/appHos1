@@ -5,7 +5,7 @@
         id = "com.phonegap.hospital"
         version = "1.0.0">
 
-    <name>hospital1</name>
+    <name>hos</name>
     
     <description>
         This app is sample application.
