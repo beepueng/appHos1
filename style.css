@@ -89,12 +89,12 @@ body {
     clear: both;
     text-align: left;
     padding: 5%;
-    margin-top: 60px;
+    margin-top: 40px;
 }
 
 #formLayout 
 {
-    padding: 8px;
+    padding: 7px;
     font-weight: bold;
     margin-top: 0px;
 
@@ -105,12 +105,12 @@ body {
 }
 select{
     font-family: WDB_Bangna;
-    padding: 7px;
+    padding: 15px 25px;
 }
 #dropdown{
     width: 100%;
-    height: 50px;
-    padding: 14px;
+    height: auto;
+    padding: 15px 25px;
     font-size: 15px;
 }
 #formLayout label, #formLayout input
@@ -233,7 +233,7 @@ list-style-type: none;
 }
  
 #tab-bar a {
-    color: #7AC5CD; 
+    color: #036; 
     font-size: 12px;
     display: block; 
     font-weight: bold; 
@@ -277,7 +277,7 @@ footer{
     font-size:20px;
     width:100%;
     text-align:center;
-    color:#7AC5CD;
+    color:#036;
     font-weight:bold;
     text-shadow:0 -1px 0 rgba(0,0,0,0.5);
     line-height:42px;
@@ -287,8 +287,8 @@ footer{
     border-top:1px solid #bcbcbc;
 }
 footer li a:hover{
-    color: #69C;
-    background-color: #69C;
+    color: #7AC5CD;
+    background-color: #7AC5CD;
 }
 footer.listPatient{
     right: 0px;
