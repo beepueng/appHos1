@@ -94,7 +94,7 @@ body {
 
 #formLayout 
 {
-    padding: 3px;
+    padding: 4px;
     font-weight: bold;
     margin-top: 0px;
 
@@ -105,7 +105,7 @@ body {
 }
 select{
     font-family: WDB_Bangna;
-    padding: 3px;
+    padding: 5px;
 }
 #dropdown{
     width: 100%;
@@ -174,7 +174,7 @@ width: 5em;
 color: #FFF;
 font-weight: bold;
 background-color: #036;
-padding: .4em 0;
+padding: .5em 0;
 text-align: center;
 text-decoration: none;
 margin-top: -5px;
